@@ -1,33 +1,30 @@
 ### Hi there 👋
 
-
-
-
-## 박창협(ariz1623)
+# 박창협(ariz1623)
 
 ## 🏛 Profile
 
 
 👶 1996년 03월 23일 출생
-
 🏫 고성 중앙 고등학교 졸업 (2011.03. ~ 2014.01.)
-
 👨‍🎓 부산 해양대학교 졸업(데이터 정보학과)      (2014.03 ~ 2021.01.)
 📭 ariz1623@naver.com
 📞 010-2760-0908
-<br/>
+<br/>  
+<br/>  
 
 
 ## 🏢 Career
 
 🏈 네이버 부스트캠프 AI tech (2021.01 ~ 2021.04) 
-<br/>
-
+<br/>  
+<br/>  
 ## 🏆 Prize
 
 🏅 NH투자증권 '가짜 뉴스 판별 AI' 공모전 장려상 (4등)
 🏅 데이콘 제2회 컴퓨터 비전 학습 경진대회 9등
-
+<br/>
+<br/>  
 ## 🌠 Skills
 
 | Skill | Score | Desciption |
@@ -42,42 +39,36 @@
 | ![Django](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=&logoColor=white) | 하 | 개인 프로젝트 경험 |
 | ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white) | 하 | 개인 프로젝트 경험 |
 <br/>
-
+<br/>  
 ## 📝Hackathon Development
 
 경진대회 설계, 운영 리스트
 <br/>
-
+<br/>  
 
 ### Public Hackathon 
 
 | Hackathon | Sponsor | Domain | Category |
 | ------ | ------ | ------ | -----|
-| [심리 성향 예측 AI 경진대회](https://www.dacon.io/competitions/official/235647/overview/description) | DACON | 심리 | 정형 |
-| [딥페이크 변조 영상 탐지 AI 경진대회](https://www.dacon.io/competitions/official/235655/overview/description) | 서울대학교 | 영상 | VISION |
-| [소설 작가 분류 AI 경진대회](https://www.dacon.io/competitions/official/235670/overview/description) | DACON | 문학 | NLP |
-| [AI야, 진짜 뉴스를 찾아줘! AI 경진대회](https://www.dacon.io/competitions/official/235658/overview/description) | NH투자증권 | 금융 | NLP |
-| [Y&Z세대 투자자 프로파일링 시각화 경진대회](https://www.dacon.io/competitions/official/235663/overview/description) | NH투자증권 | 금융 | 시각화 |
-| [국회 입법활동 빅데이터 시각화 경진대회](https://www.dacon.io/competitions/official/235679/overview/description) | DACON | 정치 | 정형 |
-| [제 2회 컴퓨터 비전 학습 경진대회](https://www.dacon.io/competitions/official/235697/overview/description) | DACON | 이미지 | VISION |
-| [모션 키포인트 검출 AI 경진대회](https://www.dacon.io/competitions/official/235701/overview/description) | SuperbAI | 운동 | DETECTION |
-| [운동 동작 분류 AI 경진대회](https://www.dacon.io/competitions/official/235689/overview/description) | DACON | 운동 | 정형 |
-| [신용카드 사용자 연체 예측 AI 경진대회](https://www.dacon.io/competitions/official/235713/overview/description) | DACON | 금융 | 정형 |
-| [로그 분석을 통한 보안 위험도 예측 AI 경진대회](https://www.dacon.io/competitions/official/235717/overview/description) | 한국원자력연구원 | 보안 | NLP |
-| [전력사용량 예측 AI 경진대회](https://www.dacon.io/competitions/official/235736/overview/description) | 한국에너지공단 | 전력 | 시계열 |
-| [자연어 기반 기후기술분류 AI 경진대회](https://www.dacon.io/competitions/official/235744/overview/description) | 녹색기술센터 | 환경 | NLP |
+
+<br/>  
+<br/>  
 
 ### Inclass Hackathon 
 
 | Hackathon | Sponsor | Domain | Category |
 | ------ | ------ | ------ | -----|
-| [단국대 소프트웨어 중심 데이터 분석 AI 경진대회](https://www.dacon.io/competitions/official/235638/overview/description) | 단국대학교 | 천문 | 정형 |
-| [중앙대학교 해커톤](https://www.dacon.io/competitions/official/235654/overview/description) | 중앙대학교 | 심리 | 정형 |
-| [하나카드 해커톤](https://www.dacon.io/competitions/official/235678/overview/description) | 하나카드 | 부동산 | 정형 | 
-| [부산대학교 DACON CAMP](https://www.dacon.io/competitions/official/235696/overview/description)| 부산대학교 | 일반 | 정형 | 
+
+<br/>  
+<br/>  
 
 ## 🌠 Projects
-심전도 데이터를 활용한 부정맥 예측 
+
+[배추가격 예측 모델 개발 (python)](https://www.notion.so/python-f4b0b525e83c4eb1a050e51622d93471)
+
+[NH투자증권 가짜뉴스탐지 공모전](https://www.notion.so/NH-ec7dfa27d0ea48caabf052fdd6076f94)
+
+[데이콘 제2회 컴퓨터 비전 학습 대회](https://www.notion.so/2-2be8698503c7417ba1db27cdaf6dac10)
 
 <!--
 **parkchanghyup/parkchanghyup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
