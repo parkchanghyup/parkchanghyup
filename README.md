@@ -3,26 +3,30 @@
 
 
 
-## 박창협(semi.zero)
+## 박창협(ariz1623)
 
 ## 🏛 Profile
 
-- 서울보성고등학교 졸업 &nbsp;&nbsp;&nbsp; _2011.03~2014.02_
-- 성균관대학교 유학동양학 / 통계학 졸업 &nbsp;&nbsp;&nbsp; _2014.03~2021.02_
-   - 중앙야구동아리 킹고야구반 
-   - 인공지능학회 TNT 
-- 성균관대학교 데이터사이언스융합대학원 재학 &nbsp;&nbsp;&nbsp; _2021.03~_
-- Email: dpapfkfemha@gmail.com
-- Instagram: @semi.zero
+
+👶 1996년 03월 23일 출생
+
+🏫 고성 중앙 고등학교 졸업 (2011.03. ~ 2014.01.)
+
+👨‍🎓 부산 해양대학교 졸업(데이터 정보학과)      (2014.03 ~ 2021.01.)
+📭 ariz1623@naver.com
+📞 010-2760-0908
 <br/>
 
 
 ## 🏢 Career
 
-- Data Scienctist, [DACON](https://www.dacon.io/) &nbsp; _2020.06~_
-  - AI Hackathon 설계, 운영 평가
-  - AI 교육 강사
+🏈 네이버 부스트캠프 AI tech (2021.01 ~ 2021.04) 
 <br/>
+
+## 🏆 Prize
+
+🏅 NH투자증권 '가짜 뉴스 판별 AI' 공모전 장려상 (4등)
+🏅 데이콘 제2회 컴퓨터 비전 학습 경진대회 9등
 
 ## 🌠 Skills
 
