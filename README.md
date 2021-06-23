@@ -1,41 +1,35 @@
 ### Hi there 👋
 
-<!--
-**parkchanghyup/parkchanghyup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 ## 박준영(semi.zero)
-## :고전_건물: Profile
+
+## 🏛 Profile
+
 - 서울보성고등학교 졸업 &nbsp;&nbsp;&nbsp; _2011.03~2014.02_
 - 성균관대학교 유학동양학 / 통계학 졸업 &nbsp;&nbsp;&nbsp; _2014.03~2021.02_
-   - 중앙야구동아리 킹고야구반
-   - 인공지능학회 TNT
+   - 중앙야구동아리 킹고야구반 
+   - 인공지능학회 TNT 
 - 성균관대학교 데이터사이언스융합대학원 재학 &nbsp;&nbsp;&nbsp; _2021.03~_
 - Email: dpapfkfemha@gmail.com
 - Instagram: @semi.zero
 <br/>
-## :사무실: Career
+
+
+## 🏢 Career
+
 - Data Scienctist, [DACON](https://www.dacon.io/) &nbsp; _2020.06~_
   - AI Hackathon 설계, 운영 평가
   - AI 교육 강사
 <br/>
-## :별똥별: Skills
+
+## 🌠 Skills
+
 | Skill | Score | Desciption |
 | ------ | ------ | ----- |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)%7C 중 | 주사용 언어 |
-| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)%7C 중 | 논문 재현 |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)| 중 | 주사용 언어 |
+| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)| 중 | 논문 재현 |
 | ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white) | 중 | 논문 재현 |
 | ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white) | 중 | 논문 재현 |
 | ![SQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) | 중 | 업무 활용 경험 |
@@ -44,10 +38,15 @@ Here are some ideas to get you started:
 | ![Django](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=&logoColor=white) | 하 | 개인 프로젝트 경험 |
 | ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white) | 하 | 개인 프로젝트 경험 |
 <br/>
-## :메모:Hackathon Development
+
+## 📝Hackathon Development
+
 경진대회 설계, 운영 리스트
 <br/>
-### Public Hackathon
+
+
+### Public Hackathon 
+
 | Hackathon | Sponsor | Domain | Category |
 | ------ | ------ | ------ | -----|
 | [심리 성향 예측 AI 경진대회](https://www.dacon.io/competitions/official/235647/overview/description) | DACON | 심리 | 정형 |
@@ -63,12 +62,30 @@ Here are some ideas to get you started:
 | [로그 분석을 통한 보안 위험도 예측 AI 경진대회](https://www.dacon.io/competitions/official/235717/overview/description) | 한국원자력연구원 | 보안 | NLP |
 | [전력사용량 예측 AI 경진대회](https://www.dacon.io/competitions/official/235736/overview/description) | 한국에너지공단 | 전력 | 시계열 |
 | [자연어 기반 기후기술분류 AI 경진대회](https://www.dacon.io/competitions/official/235744/overview/description) | 녹색기술센터 | 환경 | NLP |
-### Inclass Hackathon
+
+### Inclass Hackathon 
+
 | Hackathon | Sponsor | Domain | Category |
 | ------ | ------ | ------ | -----|
 | [단국대 소프트웨어 중심 데이터 분석 AI 경진대회](https://www.dacon.io/competitions/official/235638/overview/description) | 단국대학교 | 천문 | 정형 |
 | [중앙대학교 해커톤](https://www.dacon.io/competitions/official/235654/overview/description) | 중앙대학교 | 심리 | 정형 |
-| [하나카드 해커톤](https://www.dacon.io/competitions/official/235678/overview/description) | 하나카드 | 부동산 | 정형 |
-| [부산대학교 DACON CAMP](https://www.dacon.io/competitions/official/235696/overview/description)%7C 부산대학교 | 일반 | 정형 |
-## :별똥별: Projects
-심전도 데이터를 활용한 부정맥 예측
+| [하나카드 해커톤](https://www.dacon.io/competitions/official/235678/overview/description) | 하나카드 | 부동산 | 정형 | 
+| [부산대학교 DACON CAMP](https://www.dacon.io/competitions/official/235696/overview/description)| 부산대학교 | 일반 | 정형 | 
+
+## 🌠 Projects
+심전도 데이터를 활용한 부정맥 예측 
+
+<!--
+**parkchanghyup/parkchanghyup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
