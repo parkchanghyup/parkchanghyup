@@ -1,46 +1,48 @@
 ### Hi there 👋
 
-# 박창협(ariz1623)
+# 박창협  
+<br/>  
+<br/>  
 
 ## 🏛 Profile
 
 
 👶 1996년 03월 23일 출생  
 🏫 고성 중앙 고등학교 졸업 (2011.03. ~ 2014.01.)  
-👨‍🎓 부산 해양대학교 졸업(데이터 정보학과) (2014.03 ~ 2021.01.)  
+👨‍🎓 부산 해양대학교 졸업(데이터 정보학과) (2014.03 ~ 2021.01.)  (3.88 / 4.5)  
 📭 ariz1623@naver.com  
 📞 010-2760-0908  
 <br/>  
-<br/>  
+
 
 
 ## 🏢 Career
 
-🏈 네이버 부스트캠프 AI tech (2021.01 ~ 2021.04) 
-💻 Data Scienctist, DACON 2021.04~
+🏈 네이버 부스트캠프 AI tech (2021.01 ~ 2021.04)   
+💻 Data Scienctist, DACON 2021.04~  
   - 교육 컨텐츠 개발 
   - AI Hackathon 설계, 운영 평가
   - AI 교육 강사  
 <br/>  
-<br/>  
-## 🏆 Prize
 
-🏅 NH투자증권 '가짜 뉴스 판별 AI' 공모전 장려상 (4등)  
-🏅 데이콘 제2회 컴퓨터 비전 학습 경진대회 9등  
+## 🏆 Prize 
+🏅 NH투자증권 '가짜 뉴스 판별 AI' 공모전 장려상 (4등)   
+🏅 데이콘 제2회 컴퓨터 비전 학습 경진대회 9등   
+
 <br/>
-<br/>  
+
+
 ## 🌠 Skills
 
 | Skill | Score | Desciption |
 | ------ | ------ | ----- |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)| 중 | 주사용 언어 |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)| 상 | 주사용 언어 |
+| ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white) | 중 | 논문 재현 |
 | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)| 중 | 논문 재현 |
 | ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white) | 중 | 논문 재현 |
-| ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white) | 중 | 논문 재현 |
 | ![SQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) | 중 | 업무 활용 경험 |
-| ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white) | 중 | 통계 프로젝트 활용 |
+| ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white) | 하 | 개인 프로젝트 경험 |
 | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white) | 하 | 업무 사용 경험 |
-| ![Django](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=&logoColor=white) | 하 | 개인 프로젝트 경험 |
 | ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white) | 하 | 개인 프로젝트 경험 |
 <br/>
 <br/>  
