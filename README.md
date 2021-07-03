@@ -22,7 +22,9 @@
 💻 Data Scienctist, DACON 2021.04~  
   - 교육 컨텐츠 개발 
   - AI Hackathon 설계, 운영 평가
-  - AI 교육 강사  
+  - AI 교육 강사 
+    - 제주 TP(2021.07)
+   
 <br/>  
 
 ## 🏆 Prize 
