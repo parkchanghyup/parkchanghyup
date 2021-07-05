@@ -2,7 +2,6 @@
 
 # 박창협  
 <br/>  
-<br/>  
 
 ## 🏛 Profile
 
@@ -59,7 +58,7 @@
 
 | Hackathon | Sponsor | Domain | Category |
 | ------ | ------ | ------ | -----|
-
+|뉴스 토픽 분류 AI 경진대회|월간데이콘17|뉴스데이터|NLP|
 <br/>  
 <br/>  
 
