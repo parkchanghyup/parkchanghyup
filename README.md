@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 # 박창협  
 <br/>  
@@ -58,7 +58,7 @@
 
 | Hackathon | Sponsor | Domain | Category |
 | ------ | ------ | ------ | -----|
-|뉴스 토픽 분류 AI 경진대회|월간데이콘17|뉴스데이터|NLP|
+|뉴스 토픽 분류 AI 경진대회|월간데이콘17|뉴스데이터|NLP & Classification|
 <br/>  
 <br/>  
 
