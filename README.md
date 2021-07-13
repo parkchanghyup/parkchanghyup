@@ -76,7 +76,13 @@
 
 [NH투자증권 가짜뉴스탐지 공모전](https://www.notion.so/NH-ec7dfa27d0ea48caabf052fdd6076f94)
 
+### 🥝 Dacon 경진 대회
+
 [데이콘 제2회 컴퓨터 비전 학습 대회](https://www.notion.so/2-2be8698503c7417ba1db27cdaf6dac10)
+
+[신용카드 사용자 연체 예측 AI 경진대히]
+
+[뉴스 토픽 분류 AI 경진대회]
 
 <!--
 **parkchanghyup/parkchanghyup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
