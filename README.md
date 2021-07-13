@@ -58,7 +58,7 @@
 
 | Hackathon | Sponsor | Domain | Category |
 | ------ | ------ | ------ | -----|
-|뉴스 토픽 분류 AI 경진대회|월간데이콘17|뉴스데이터|NLP & Classification|
+|[뉴스 토픽 분류 AI 경진대회](https://dacon.io/competitions/official/235747/codeshare)|월간데이콘17|뉴스데이터|NLP & Classification|
 <br/>  
 <br/>  
 
@@ -82,7 +82,7 @@
 
 [신용카드 사용자 연체 예측 AI 경진대히]
 
-[뉴스 토픽 분류 AI 경진대회]
+[동서발전]
 
 <!--
 **parkchanghyup/parkchanghyup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
