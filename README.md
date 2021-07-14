@@ -83,7 +83,7 @@
 
 [신용카드 사용자 연체 예측 AI 경진대히]
 
-[동서발전]
+[동서발전](https://github.com/parkchanghyup/Dacon/tree/main/%EB%8F%99%EC%84%9C%EB%B0%9C%EC%A0%84)
 
 <!--
 **parkchanghyup/parkchanghyup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
