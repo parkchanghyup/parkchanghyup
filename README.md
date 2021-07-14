@@ -38,13 +38,12 @@
 | Skill | Score | Desciption |
 | ------ | ------ | ----- |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)| 상 | 주사용 언어 |
-| ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white) | 중 | 논문 재현 |
-| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)| 중 | 논문 재현 |
-| ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white) | 중 | 논문 재현 |
+| ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white) | 중 | 공모전 참가 및 논문 재현 |
+| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)| 중 | 공모전 참가 |
+| ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white) | 중 | 공모전 참가 |
 | ![SQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) | 중 | 업무 활용 경험 |
 | ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white) | 하 | 개인 프로젝트 경험 |
-| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white) | 하 | 업무 사용 경험 |
-| ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white) | 하 | 개인 프로젝트 경험 |
+
 <br/>
 <br/>  
 
@@ -81,7 +80,7 @@
 
 [데이콘 제2회 컴퓨터 비전 학습 대회](https://www.notion.so/2-2be8698503c7417ba1db27cdaf6dac10)
 
-[신용카드 사용자 연체 예측 AI 경진대히]
+[신용카드 사용자 연체 예측 AI 경진대회](https://github.com/parkchanghyup/Dacon/tree/main/%EC%8B%A0%EC%9A%A9%EC%B9%B4%EB%93%9C%20%EC%82%AC%EC%9A%A9%EC%9E%90%20%EC%97%B0%EC%B2%B4%20%EC%98%88%EC%B8%A1%20AI%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C)
 
 [동서발전](https://github.com/parkchanghyup/Dacon/tree/main/%EB%8F%99%EC%84%9C%EB%B0%9C%EC%A0%84)
 
