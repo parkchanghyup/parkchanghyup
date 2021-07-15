@@ -74,7 +74,7 @@
   
 [배추가격 예측 모델 개발 (python)](https://www.notion.so/python-f4b0b525e83c4eb1a050e51622d93471)
 
-[NH투자증권 가짜뉴스탐지 공모전](https://www.notion.so/NH-ec7dfa27d0ea48caabf052fdd6076f94)
+[NH투자증권 가짜뉴스탐지 공모전](https://github.com/parkchanghyup/Dacon/tree/main/NH%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C_%EA%B0%80%EC%A7%9C%EB%89%B4%EC%8A%A4%ED%83%90%EC%A7%80%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 
 <br/>  
 
