@@ -41,7 +41,7 @@
 | ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white) | 중 | 공모전 참가 및 논문 재현 |
 | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)| 중 | 공모전 참가 |
 | ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white) | 중 | 공모전 참가 |
-| ![SQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) | 중 | 업무 활용 경험 |
+| ![SQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) | 하 | 업무 활용 경험 |
 | ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white) | 하 | 개인 프로젝트 경험 |
 
 <br/>
