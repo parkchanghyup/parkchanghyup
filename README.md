@@ -58,6 +58,7 @@
 | Hackathon | Sponsor | Domain | Category |
 | ------ | ------ | ------ | -----|
 |[뉴스 토픽 분류 AI 경진대회](https://dacon.io/competitions/official/235747/codeshare)|월간데이콘17|뉴스데이터|NLP & Classification|
+|[자연어 기반 기후기술분류 AI 경진대회](https://dacon.io/competitions/official/235744/overview/description)|녹색기술센터|자연어|NLP & Classification|
 <br/>  
 <br/>  
 
@@ -66,6 +67,7 @@
 | Hackathon | Sponsor | Domain | Category |
 | ------ | ------ | ------ | -----|
 |CJ 올리브네트웍스 해커톤|CJ 올리브 네트웍스|심리 성향|정형데이터|
+|2021 인하 인공지능 챌린지|인하대학교|얼굴 인식|컴퓨터 비전|
 
 <br/>  
 <br/>  
