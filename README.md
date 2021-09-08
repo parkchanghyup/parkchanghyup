@@ -23,6 +23,7 @@
   - AI Hackathon 설계, 운영 평가
   - AI 교육 강사 
     - 제주 TP(2021.07.05 ~ 2021.07.07)
+  - [오늘의 파이썬](https://dacon.io/competitions/open/235698/talkboard/403458?page=1&dtype=recent) 기획 및 컨텐츠 생성 
    
 <br/>  
 
