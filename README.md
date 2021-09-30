@@ -24,6 +24,7 @@
   - AI 교육 강사 
     - 제주 TP(2021.07.05 ~ 2021.07.07)
   - [오늘의 파이썬](https://dacon.io/competitions/open/235698/talkboard/403458?page=1&dtype=recent) 기획 및 컨텐츠 생성 
+  - 데이터분석 입문자용 교육 컨텐츠 생성
    
 <br/>  
 
@@ -42,7 +43,7 @@
 | ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white) | 중 | 공모전 참가 및 논문 재현 |
 | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)| 중 | 공모전 참가 |
 | ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white) | 중 | 공모전 참가 |
-| ![SQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) | 중 | 업무 활용 경험 |
+| ![SQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) | 하 | 업무 활용 경험 |
 | ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white) | 하 | 개인 프로젝트 경험 |
 
 <br/>
@@ -69,6 +70,7 @@
 | ------ | ------ | ------ | -----|
 |CJ 올리브네트웍스 해커톤|CJ 올리브 네트웍스|심리 성향|정형데이터|
 |2021 인하 인공지능 챌린지|인하대학교|얼굴 인식|컴퓨터 비전|
+|구내 식당 식수 인원 예측 AI 경진대회|부산대학교|예측|정형데이터|
 
 <br/>  
 <br/>  
