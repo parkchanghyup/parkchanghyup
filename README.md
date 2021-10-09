@@ -24,7 +24,7 @@
   - AI 교육 강사 
     - 제주 TP(2021.07.05 ~ 2021.07.07)
   - [오늘의 파이썬](https://dacon.io/competitions/open/235698/talkboard/403458?page=1&dtype=recent) 기획 및 컨텐츠 생성 
-  - 데이터분석 입문자용 교육 컨텐츠 생성 (연암공대, CJ올리브네트웍스)
+  - 데이터분석 입문자용 교육 컨텐츠 생성 
 <br/>  
 
 ## 🏆 Prize 
