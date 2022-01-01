@@ -61,6 +61,7 @@
 | ------ | ------ | ------ | -----|
 |[뉴스 토픽 분류 AI 경진대회](https://dacon.io/competitions/official/235747/codeshare)|월간데이콘17|뉴스데이터|NLP & Classification|
 |[자연어 기반 기후기술분류 AI 경진대회](https://dacon.io/competitions/official/235744/overview/description)|녹색기술센터|자연어|NLP & Classification|
+|[물류 운송량 예측 AI 경진대회()|국토연구원|정형데이터|회귀|
 <br/>  
 <br/>  
 
