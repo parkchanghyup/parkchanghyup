@@ -14,11 +14,13 @@
 
 <br/>  
 
+## 📖 Education
 
+🏈 네이버 부스트캠프 AI tech (2021.01 ~ 2021.04)  
 
 ## 🏢 Career
 
-🏈 네이버 부스트캠프 AI tech (2021.01 ~ 2021.04)   
+ 
 💻 Data Scienctist, DACON 2021.04~  
   - 교육 컨텐츠 개발 
   - AI Hackathon 설계, 운영 평가
