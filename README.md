@@ -67,7 +67,7 @@
 <br/>  
 <br/>  
 
-### Inclass Hackathon 운영
+### Private Hackathon 운영
 
 | Hackathon | Sponsor | Domain | Category |
 | ------ | ------ | ------ | -----|
