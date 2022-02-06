@@ -12,14 +12,21 @@
 
 📞 010-2760-0908 
 
+<br/>  
+<br/>  
+
 
 ## 📝 Blog & Github
 
----
+
 
 [https://ariz1623.tistory.com/](https://ariz1623.tistory.com/)
 
 [https://github.com/parkchanghyup](https://github.com/parkchanghyup)
+
+
+<br/>  
+<br/>  
 
 ## 👨‍🏫Education
 
@@ -33,6 +40,10 @@
 
 🏈 네이버 부스트캠프 AI tech (2021.01 ~ 2021.04)
 
+
+<br/>  
+<br/>  
+
 ## 🏆 Prize
 
 ---
@@ -40,9 +51,13 @@
 - NH투자증권 `가짜 뉴스 판별 AI` 공모전 장려상
 - 데이콘 제2회 컴퓨터 비전 학습 경진대회 9등
 
+
+<br/>  
+<br/>  
+
 ## 🎞 Career 
 
----
+
 
 💻 Data Scienctist, `DACON` 2021.04~
 
@@ -50,17 +65,24 @@
 - `AI Hackathon 설계`, `운영 평가`
 - `AI 교육 강사`
 
+
+<br/>  
+<br/>  
+
 ## 🌠 Projects
 
----
 
-[배추가격 예측 모델 개발 (python)](https://www.notion.so/python-f4b0b525e83c4eb1a050e51622d93471)
 
 [NH투자증권 가짜뉴스탐지 공모전](https://www.notion.so/NH-ec7dfa27d0ea48caabf052fdd6076f94)
 
 [데이콘 제2회 컴퓨터 비전 학습 대회](https://www.notion.so/2-2be8698503c7417ba1db27cdaf6dac10)
 
+[배추가격 예측 모델 개발 (python)](https://www.notion.so/python-f4b0b525e83c4eb1a050e51622d93471)
 
+
+
+<br/>  
+<br/>  
 
 
 ## 🌠 Skills
@@ -111,7 +133,7 @@
 
 
 
----
+
 
 <!--
 **parkchanghyup/parkchanghyup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
