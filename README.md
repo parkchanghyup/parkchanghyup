@@ -11,8 +11,8 @@
 
 📞 010-2760-0908 
 
-🍦 [Tech blog]([https://ariz1623.tistory.com/](https://ariz1623.tistory.com/)
-)
+🍦 [Tech blog](https://ariz1623.tistory.com/)
+
 
 
 
