@@ -30,7 +30,7 @@
 
 
 
-💻 Data Scienctist, `DACON` 2021.04~
+💻 Data Scienctist, `DACON` 2021.04~2022.04
 
 - `교육 컨텐츠 개발`,'교육 운영'
 - `AI Hackathon 설계`, `운영 평가`
