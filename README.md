@@ -36,6 +36,10 @@
 - `AI Hackathon 설계`, `운영 평가`
 - `AI 교육 강사`
 
+💻 Data Scienctist, `SNAPS` 2022.04 ~ 
+
+- Face Detection 알고리즘 개발
+
 
 
 ## 🌠 Skills
