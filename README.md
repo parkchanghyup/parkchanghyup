@@ -38,7 +38,8 @@
 
 💻 Data Scienctist, `SNAPS` 2022.04 ~ 
 
-- Face Detection 알고리즘 개발
+- Vision AI 모델 개발
+  - Face Detection 알고리즘 개발
 
 
 
