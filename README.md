@@ -39,8 +39,6 @@
 💻 Data Scienctist, `SNAPS` 2022.04 ~ 
 
 - Vision AI 모델 개발
-  - Face Detection 알고리즘 개발
-  - 배경 제거 
 
 
 
