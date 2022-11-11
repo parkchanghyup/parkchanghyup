@@ -36,7 +36,7 @@
 - `AI Hackathon 설계`, `운영 평가`
 - `AI 교육 강사`
 
-💻 Data Scienctist, `SNAPS` 2022.04 ~ 
+💻 Data Scienctist, `WEBLING` 2022.04 ~ 
 
 - Vision AI 모델 개발
 
