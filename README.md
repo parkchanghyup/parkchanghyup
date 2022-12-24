@@ -39,7 +39,7 @@
 💻 Data Scienctist, `WEBLING` 2022.04 ~ 
 
 - Vision AI 모델 개발
-- 추천 시스템 개발
+- 추천 시스템 AI 모델 개발
 
 
 ## 🌠 Skills
