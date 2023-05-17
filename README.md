@@ -1,13 +1,18 @@
 
 # 👨‍💻박창협 (Park chang hyup)
 
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkchanghyup&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=parkchanghyup&theme=tokyonight&show_icons=true" width="42%" />
+</a>
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=parkchanghyup&show_icons=true&theme=highcontrast)   
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=pch1623)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkchanghyup&layout=compact&theme=highcontrast)
+
 
 
 ## 🌠 Skills
