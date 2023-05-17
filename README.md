@@ -27,9 +27,10 @@
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <br/>  <br/>
+  <br/><br/>
+  <br/><br/>
   <img src="http://mazassumnida.wtf/api/generate_badge?boj=pch1623">
-  <img src="https://github-readme-stats.vercel.app/api?username=parkchanghyup&theme=tokyonight&show_icons=true" width="50%" >
+  <img src="https://github-readme-stats.vercel.app/api?username=parkchanghyup&theme=tokyonight&show_icons=true" width="48%" >
   <br>
 </div>
 
