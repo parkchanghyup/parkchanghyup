@@ -3,7 +3,10 @@
 
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=parkchanghyup&show_icons=true&theme=highcontrast)
+![github stats](https://github-readme-stats.vercel.app/api?username=parkchanghyup&show_icons=true&theme=highcontrast)  
+![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=pch1623)](https://solved.ac/pch1623)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkchanghyup&layout=compact&theme=highcontrast)
 
 
 ## 🌠 Skills
