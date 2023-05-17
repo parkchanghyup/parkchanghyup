@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br/>  <br/>
   <img src="http://mazassumnida.wtf/api/generate_badge?boj=pch1623">
-  <img src="https://github-readme-stats.vercel.app/api?username=parkchanghyup&theme=tokyonight&show_icons=true" width="40%" >
+  <img src="https://github-readme-stats.vercel.app/api?username=parkchanghyup&theme=tokyonight&show_icons=true" width="50%" >
   <br>
 </div>
 
