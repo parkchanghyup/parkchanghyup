@@ -1,31 +1,38 @@
 
-# 👨‍💻박창협 (Park chang hyup)
+# 👨‍💻박창협 (Park chang hyup)  
 
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkchanghyup&layout=compact&theme=tokyonight" />
-</a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=parkchanghyup&theme=tokyonight&show_icons=true" width="42%" />
-</a>
+<div align=center><h3>📚 STACKS</h3></div>   
 
+<div align=center> 
+  <img src="https://img.shields.io/badge/python-00599C?style=for-the-badge&logo=python%2B%2B&logoColor=white"> 
+  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/R-3776AB?style=for-the-badge&logo=R&logoColor=white"> 
 
+  <br>
+  
+  <img src="https://img.shields.io/badge/lambda-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">   
+  <img src="https://img.shields.io/badge/s3-7952B3?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/personalize-7952B3?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/comprehend-7952B3?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/API Gateway-7952B3?style=for-the-badge&logo=amazonaws&logoColor=white">
 
-![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=pch1623)
+  <br>
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/pytorch-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=pytorch&logoColor=white"> 
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white"> 
+  
+  <br>
+  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <br/>  <br/>
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=pch1623">
+  <img src="https://github-readme-stats.vercel.app/api?username=parkchanghyup&theme=tokyonight&show_icons=true" width="40%" >
+  <br>
+</div>
 
-
-
-
-## 🌠 Skills
-
-| Skill | Score | Desciption |
-| ------ | ------ | ----- |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)| 상 | 주사용 언어 |
-| ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white) | 상 | 주사용 프레임워크 |
-| ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)| 상 | 업무시 활용|
-| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)| 중 | 공모전 참가 |
-| ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white) | 중 | 공모전 참가 |
-| ![SQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) | 중 | 업무 활용 경험 |
-| ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white) | 하 | 개인 프로젝트 경험 |
 
 
 
