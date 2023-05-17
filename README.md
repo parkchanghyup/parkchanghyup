@@ -3,44 +3,7 @@
 
 
 
-### 💡 Contact
-
-
-
-📭 ariz1623@naver.com
-
-📞 010-2760-0908 
-
-🍦 [Tech blog](https://ariz1623.tistory.com/)
-
-
-
-
-
-## 👨‍🏫Education
-
-
-
-👨‍🎓 부산 해양대학교 졸업(데이터 정보학과)      (2014.03 ~ 2021.01)
-
-🏈 네이버 부스트캠프 AI tech (2021.01 ~ 2021.04)
-
-
-## 🎞 Career 
-
-
-
-💻 Data Scienctist, `DACON` 2021.04~2022.04
-
-- `교육 컨텐츠 개발`,'교육 운영'
-- `AI Hackathon 설계`, `운영 평가`
-- `AI 교육 강사`
-
-💻 Data Scienctist, `WEBLING` 2022.04 ~ 
-
-- Vision AI 모델 개발
-- 추천 시스템 AI 모델 개발
-- 리뷰 분석 시스템 고도화
+![github stats](https://github-readme-stats.vercel.app/api?username=parkchanghyup&show_icons=true&theme=highcontrast)
 
 
 ## 🌠 Skills
